@@ -35,6 +35,16 @@ p.summary{
     font-size: x-large;
 }
 
+.picAndpar{
+    background: rgb(255, 253, 253);
+    border-radius: 30px;
+    padding:10px;
+}
+
+p.SummaryWpic{
+    margin:40px;
+    font-size: x-large;
+}
 body{
     background-color:rgb(233, 233, 233);
 }
