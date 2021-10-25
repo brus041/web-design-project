@@ -41,10 +41,11 @@ p.summary{
     padding:10px;
 }
 
-p.SummaryWpic{
+SummaryWpic{
     margin:40px;
-    font-size: x-large;
+    font-size: large;
 }
+
 body{
     background-color:rgb(233, 233, 233);
 }
