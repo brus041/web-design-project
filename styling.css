@@ -44,6 +44,7 @@ p.summary{
 SummaryWpic{
     margin:40px;
     font-size: large;
+    text-align: center;
 }
 
 body{
