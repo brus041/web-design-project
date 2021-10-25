@@ -1,38 +1,49 @@
 .white {
     background: rgb(255, 255, 255);
+    text-align: center;
   }
 
 .col-md-3{
     background: rgb(255, 255, 255);
-    left: 40px;
     bottom: -10px;
-    padding: 5px;
-    margin: 5px;
+    border-radius: 30px;
+    padding:20px;
 
 }
 .col-md-8{
     bottom: -10px;
     padding: 5px;
     margin: 5px;
-
+    right:30px
 }
 
 .vis-title {
-    left: 40px;
+    font-size: large;
+    text-align: center;
+    
 }
 
-.picture {
-    right: 40px;
-}
 .paragraph{
     background: rgb(255, 253, 253);
+    border-radius: 30px;
+    padding:10px;
 }
 
 p.summary{
     margin:40px;
+    font-size: x-large;
 }
 
-@media screen and (max-width: 300px) {
-    body { background-color: red; 
+body{
+    background-color:rgb(233, 233, 233);
+}
+
+@media screen and (max-width: 765px) {
+    body {background-color: rgb(255, 255, 255); 
     }
 }
+
+
+
+
+
