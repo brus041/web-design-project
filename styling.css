@@ -1,0 +1,38 @@
+.white {
+    background: rgb(255, 255, 255);
+  }
+
+.col-md-3{
+    background: rgb(255, 255, 255);
+    left: 40px;
+    bottom: -10px;
+    padding: 5px;
+    margin: 5px;
+
+}
+.col-md-8{
+    bottom: -10px;
+    padding: 5px;
+    margin: 5px;
+
+}
+
+.vis-title {
+    left: 40px;
+}
+
+.picture {
+    right: 40px;
+}
+.paragraph{
+    background: rgb(255, 253, 253);
+}
+
+p.summary{
+    margin:40px;
+}
+
+@media screen and (max-width: 300px) {
+    body { background-color: red; 
+    }
+}
