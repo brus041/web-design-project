@@ -39,12 +39,13 @@ p.summary{
     background: rgb(255, 253, 253);
     border-radius: 30px;
     padding:10px;
+    text-align: center;
 }
 
 SummaryWpic{
     margin:40px;
-    font-size: large;
-    text-align: center;
+    font-size: x-large;
+    
 }
 
 body{
