@@ -65,8 +65,8 @@ body{
 }
     @media screen and (max-width: 1000px) {   
     .pic{
-        width: 40;
-        height: 40;
+        width: 400;
+        height: 300;
     }
 }
 
