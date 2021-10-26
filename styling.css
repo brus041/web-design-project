@@ -18,6 +18,15 @@
     right:30px
 }
 
+.col-md-9{
+    background: rgb(255, 255, 255);
+    bottom: -10px;
+    border-radius: 30px;
+    padding:20px;
+   
+    
+}
+
 .vis-title {
     font-size: large;
     text-align: center;
